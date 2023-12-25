@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuite">
+    <test name="Test">
+        <classes>
+            <!-- <class name="com.automation.tests.SampleTest" /> -->
+            <class name="com.automation.tests.MobileAppLoginTest" />
+            <!-- Add more classes As needed -->
+        </classes>
+    </test>
+</suite>
